@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Foswaldoacauan)
 ![](https://nojsstats.appspot.com/UA-35822150-3/github.com/oswaldoacauan)
 <!--
 **oswaldoacauan/oswaldoacauan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
