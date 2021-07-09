@@ -14,7 +14,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          config_display: column
+          config_display: columns
           plugin_achievements: yes
           plugin_achievements_threshold: B       # Display achievements with rank B or higher
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
